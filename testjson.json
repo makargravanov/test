@@ -1,0 +1,52 @@
+{
+    "footballMatchList": [
+        {
+            "id": 191,
+            "name": "name2",
+            "c1": 2,
+            "c2": 1,
+            "player_a": "player1",
+            "player_b": "player4",
+            "play_begin": "2023-11-12T00:17:46.589024",
+            "play_end": "2023-11-12T02:14:46.589024",
+            "duration": 117,
+            "description": "description2",
+            "what_type": 2
+        },
+        {
+            "id": 192,
+            "name": "name2",
+            "c1": 2,
+            "c2": 0,
+            "player_a": "player5",
+            "player_b": "player1",
+            "play_begin": "2023-11-12T00:17:47.692726",
+            "play_end": "2023-11-12T02:05:47.692726",
+            "duration": 108,
+            "description": "description2",
+            "what_type": 2
+        }
+    ],
+    "newsList": [
+        {
+            "img_link": "linkBefore1",
+            "name": "nameBefore1",
+            "text": "textBefore1",
+            "publication_time": "2023-11-11T23:57:46.589024",
+            "player_a": "player1",
+            "player_b": "player4",
+            "what_type": 0,
+            "match_id": 191
+        },
+        {
+            "img_link": "linkBefore5",
+            "name": "nameBefore5",
+            "text": "textBefore5",
+            "publication_time": "2023-11-11T23:57:47.692726",
+            "player_a": "player5",
+            "player_b": "player1",
+            "what_type": 0,
+            "match_id": 192
+        }
+    ]
+}
